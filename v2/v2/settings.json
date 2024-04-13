@@ -1,0 +1,8 @@
+{
+    "folder": "H:\\serialreader\\Monitorx-v2",
+    "file_name_template": "Default (Date+time+Optional suffix)",
+    "suffix": "",
+    "baud_rate": "9600",
+    "com_port": "COM8",
+    "buffer_size": "10"
+}
